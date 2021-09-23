@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183410211335",
+    "project_id": "fetchdatafromapi-6edd1",
+    "storage_bucket": "fetchdatafromapi-6edd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183410211335:android:6a3978b6ba3aa3923888a2",
+        "android_client_info": {
+          "package_name": "com.abdulzahid.appentus.appentus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183410211335-ssk4qdjt4j97hhucn6g9ltrrhmkajet6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRuT8FvLtWR4D6z9vBmuLCOvlNojgZYv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183410211335-ssk4qdjt4j97hhucn6g9ltrrhmkajet6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
